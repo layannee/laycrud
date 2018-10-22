@@ -1,6 +1,5 @@
 package servicos;
 
-import java.io.Serializable;
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
 

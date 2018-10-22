@@ -6,9 +6,7 @@ import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
-
 import entidades.Aluno;
-import entidades.Disciplina;
 import util.TransacionalCdi;
 
 @ApplicationScoped
